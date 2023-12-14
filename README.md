@@ -1,6 +1,6 @@
-RestaurantLy App built while learning Nuxt. 
+RestaurantLy App built while learning Nuxt. This is an app where you can search through a list of restaurants and see more detail obout the restaurant. I do not own this and was merely a tool for learning and showing my skills. 
 
-Tools: Webstorm, Nuxt, Vue, Bootstrap
+Tools: Webstorm, Nuxt, Vue, Bootstrap.
 
 
 # Nuxt 3 Minimal Starter
